@@ -12,9 +12,15 @@ using namespace MonsterPD;
 
 Block::Block()
 {
+    a =10;
+    
+    
+    
 }
 
 Block::~Block()
 {
+    a= 0;
+    b=0;
 }
 
